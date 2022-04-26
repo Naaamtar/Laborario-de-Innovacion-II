@@ -1,0 +1,240 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Sobre Mí - Piero Nuñez Website</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo"><strong>Website</strong> <span>by Piero Nuñez</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+				<nav id="menu">
+					<ul class="links">
+						<li><a href="index.html">Inicio</a></li>
+						<li><a href="Sobre mí.html">Sobre Mí</a></li>
+						<li><a href="Proyectos.html">Proyectos</a></li>
+						<li><a href="Estudioss.html">Estudios</a></li>
+					</ul>
+					<ul class="actions stacked">
+						<li><a href="https://www.behance.net/parns-2001abc/projects" class="button primary fit">Behance</a></li>
+						<li><a href="https://www.linkedin.com/in/piero-nuñez-97820a217/" class="button fit">LinkedIn</a></li>
+					</ul>
+				</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Sobre Mí</h1>
+							</header>
+							<div class="content">
+								<p>Hola, me llamo Piero. Soy un estudiante y publicista peruano.
+									Actualmente cuento con 20 años, y esta es la 8va página
+									web que hago. En este espacio hablaré un poco más de mi.
+								</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>11s</h2>
+									</header>
+									<p>11s, puede sonar a un nombre complejo que le pondrías a un celular,
+										como a los de ahora. Pero así le llaman al 11 de setiembre de 2001
+										en los Estados Unidos. Todos sabemos que pasó ese día, ¿no?.
+										!Yo nací ese día¡ Probablemente no a la misma hora, pero es algo
+										muy anecdótico.
+									</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="spotlights">
+								<section>
+									<a href="https://drive.google.com/file/d/1mJBtdWOh0iyx1I6RNr7zx2vMuuJImDAd/view?usp=sharing" class="image">
+										<img src="images/pic08.jpg" alt="" data-position="center center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Premiaciones</h3>
+											</header>
+											<p>Desde niño, siempre nos inculcan esa mentalidad competitiva,
+												debías ganar todo a lo que aspirabas, ser excelente. Desde que
+												tengo uso de consciencia siempre mi habilidad para dibujar, y más
+												que nada, tener una buena percepción de las proporciones y dimensiones
+												en el espacio, ha sido muy buena. Imagino que eso me ayudó a ganar
+												una competencia de dibujo. Tenía 11 años, que tiempos.</s>
+											</p>
+											<ul class="actions">
+												<li><a href="https://drive.google.com/file/d/1mJBtdWOh0iyx1I6RNr7zx2vMuuJImDAd/view?usp=sharing" class="button">Álbum de Fotos</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="https://drive.google.com/file/d/1wzRVTOxx-JBuDpH8wB4krF2pe-XnGRGK/view?usp=sharing" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Medallas al Honor y eso</h3>
+											</header>
+											<p>Cursando estudios superiores, pude notar que mi antiguo colegio
+												era extremadamente exigente, aparte de aprobar, tenías participaciones
+												en concursos de ciencias del Estado, campeonatos deportivos, etc.
+												¿De qué sirvieron? Hasta el día de hoy no tengo respuesta. :s
+											</p>
+											<ul class="actions">
+												<li><a href="https://drive.google.com/file/d/1wzRVTOxx-JBuDpH8wB4krF2pe-XnGRGK/view?usp=sharing" class="button">Las Pruebas Acá :D</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="https://drive.google.com/file/d/1DpOF54zSE_ERAjc1VRBWeyF91RetIkmf/view?usp=sharing" class="image">
+										<img src="images/pic10.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Un Premio Inesperado</h3>
+											</header>
+											<p>Era mi primer ciclo. Creo que todos pasamos por el curso de Mentoring,
+												mi grupo de compañeros y yo salímos elegidos para la feria que organiza
+												Toulouse para los cachimbos. Increíblemente ganamos, con un proyecto que 
+												no conllevó un gran esfuerzo, pero por lo visto la idea fue bastante original (?).
+											</p>
+											<ul class="actions">
+												<li><a href="https://drive.google.com/file/d/1DpOF54zSE_ERAjc1VRBWeyF91RetIkmf/view?usp=sharing" class="button">Fotos aquí :D</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="inner">
+									<header class="major">
+										<h2>¿El Fin?</h2>
+									</header>
+									<p>Probablemente no, en un futuro se irá añadiendo más y más contenido
+										a esta página. De todas formas, con esto me despido.
+									</p>
+									<ul class="actions">
+										<li><a href="https://www.linkedin.com/in/piero-nuñez-97820a217/" class="button next">Contáctame</a></li>
+									</ul>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+				<section id="contact">
+					<div class="inner">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field half">
+										<label for="name">Nombre</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field half">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Mensaje</label>
+										<textarea name="message" id="message" rows="6"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Mandar mensaje" class="primary" /></li>
+									<li><input type="reset" value="Vaciar" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split">
+							<section>
+								<div class="contact-method">
+									<span class="icon solid alt fa-envelope"></span>
+									<h3>Email</h3>
+									<a href="#">parns-2001@hotmail.com</a>
+								</div>
+							</section>
+							<section>
+								<div class="contact-method">
+									<span class="icon solid alt fa-phone"></span>
+									<h3>Celular</h3>
+									<span>+51 940 998 956</span>
+								</div>
+							</section>
+							<section>
+								<div class="contact-method">
+									<span class="icon solid alt fa-home"></span>
+									<h3>Dirección</h3>
+									<span>Av. Bolivar #239<br />
+									Chancay, Huaral, Lima<br />
+									Lima, Perú 2022</span>
+								</div>
+							</section>
+						</section>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<div class="inner">
+						<ul class="icons">
+							<li><a href="https://twitter.com/namtaaar" class="icon brands alt fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/piero.ramirez.11/" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/pierooo.sz/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.behance.net/parns-2001abc/projects" class="icon brands alt fa-behance"><span class="label">Behance</span></a></li>
+							<li><a href="https://www.linkedin.com/in/piero-nuñez-97820a217/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>&copy; Piero Nuñez</li><li>Design: <a href="https://youtu.be/dQw4w9WgXcQ">Piero Nuñez</a></li>
+						</ul>
+					</div>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
